@@ -6,7 +6,7 @@ https://github.com/localForage/localForage
 
 https://css-tricks.com/a-primer-on-the-different-types-of-browser-storage
 
-https://codepen.io/hchiam/pen/MWepRZo
+https://codepen.io/hchiam/pen/MWepRZo or https://codepen.io/thgreasi/pen/ojYKeE
 
 ## From scratch
 
