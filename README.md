@@ -28,6 +28,18 @@ Or with CDN:
 <script src="https://cdn.rawgit.com/mozilla/localForage/master/dist/localforage.js"></script>
 ```
 
+Then there are different ways to use localForage. Here's one way:
+
+```js
+localforage.setItem('key', 'value').then(function () {
+  return localforage.getItem('key');
+}).then(function (value) {
+  console.log('success');
+}).catch(function (err) {
+  console.log('error');
+});
+```
+
 ## Starting by testing out this repo
 
 Using [`yarn`](https://github.com/hchiam/learning-yarn): (triple-click to select all)
