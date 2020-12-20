@@ -22,10 +22,10 @@ Or with `npm`:
 npm install localforage
 ```
 
-And then:
+Or with CDN:
 
-```bash
-
+```html
+<script src="https://cdn.rawgit.com/mozilla/localForage/master/dist/localforage.js"></script>
 ```
 
 ## Starting by testing out this repo
