@@ -4,7 +4,9 @@ Just one of the things I'm learning. <https://github.com/hchiam/learning>
 
 https://github.com/localForage/localForage
 
-https://css-tricks.com/a-primer-on-the-different-types-of-browser-storage/
+https://css-tricks.com/a-primer-on-the-different-types-of-browser-storage
+
+https://codepen.io/hchiam/pen/MWepRZo
 
 ## From scratch
 
